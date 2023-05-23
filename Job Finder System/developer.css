@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Alice&display=swap');
+* {
+    font-family: 'Alice', serif;
+}
+.profile {
+    height: 50px;
+    width: 50px;
+}
+
+#pro{
+    margin-right: 23px;
+}
+
+#nav_color{
+    background-color: #072E33;
+}
+
+#nav_item{
+    color: white;
+    margin-left: 50px;
+    font-size: 21px;
+}
+.dev-container {
+    max-width: 900px;
+    height: 500px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+  }
